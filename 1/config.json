@@ -1,6 +1,6 @@
 {
-  "minVersion": "1.0.0",
-  "latestVersion": "1.0.0",
+  "minVersion": "1.0.2",
+  "latestVersion": "1.0.2",
   "forceUpdateMessage": {
     "en": "This version is no longer supported. Please update to continue.",
     "fr": "Cette version n'est plus prise en charge. Veuillez la mettre à jour pour continuer."
