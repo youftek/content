@@ -1,12 +1,27 @@
 {
   "minVersion": "1.2.0",
   "latestVersion": "1.2.0",
+  "ar": {
+    "forceUpdateMessage": "هذا الإصدار لم يعد مدعومًا. يُرجى التحديث للمتابعة.",
+    "updateMessage": "إصدار جديد متوفر بميزات رائعة!"
+  },
+  "en": {
+    "forceUpdateMessage": "This version is no longer supported. Please update to continue.",
+    "updateMessage": "A new version is available with exciting features!"
+  },
+  "fr": {
+    "forceUpdateMessage": "Cette version n'est plus prise en charge. Veuillez la mettre à jour pour continuer.",
+    "updateMessage": "Une nouvelle version est disponible avec des fonctionnalités intéressantes!"
+  },
+
   "forceUpdateMessage": {
+    "ar": "هذا الإصدار لم يعد مدعومًا. يُرجى التحديث للمتابعة.",
     "en": "This version is no longer supported. Please update to continue.",
     "fr": "Cette version n'est plus prise en charge. Veuillez la mettre à jour pour continuer."
   },
 
   "updateMessage": {
+    "ar": "إصدار جديد متوفر بميزات رائعة!",
     "en": "A new version is available with exciting features!",
     "fr": "Une nouvelle version est disponible avec des fonctionnalités intéressantes!"
   }
